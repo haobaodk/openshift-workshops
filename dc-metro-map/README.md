@@ -14,7 +14,7 @@ For more general instructions on OpenShift:
 * If you are using this as part of a Red Hat workshop, follow the provided instructions instead
 
 ## Notes
-This lab code requires access to api.mapbox.com in order to run.
+This lab code requires access to api.mapbox.com in order to run..
 
 ## License
 Under the terms of the [MIT][4].
